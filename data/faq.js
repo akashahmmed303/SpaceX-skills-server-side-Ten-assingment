@@ -1,0 +1,97 @@
+[
+  {
+    _id: '0282e0e58a5c404fbd15261f11c2ab6a',
+
+    category_id: '01',
+    rating: { number: 4.5, badge: 'Excellent' },
+    total_view: 488,
+    title: 'Programming Foundations: JavaScript, HTML and CSS',
+
+    thumbnail_url: 'https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png',
+    image_url:
+      'https://collab.templatekit.co/wp-content/uploads/sites/44/2022/04/professor-is-doing-online-lecture-2021-08-27-23-33-50-utc-1024x684.jpg',
+    details:
+      'Take your first step towards a career in software development with this introduction to Java—one of the most in-demand programming languages and the foundation of the Android operating system. Designed for beginners, this Specialization will teach you core programming concepts and equip you to write programs to solve complex problems. In addition, you will gain the foundational skills a software engineer needs to solve real-world problems, from designing algorithms to testing and debugging your programs. Centered around projects, this Specialization will help you create a portfolio of work to demonstrate your new programming skills. In the capstone you will create a recommender engine similar to those used by Netflix or Amazon. Additional projects in your portfolio will include:an interactive webpage that applies filters to images, an analysis of CSV data files, an encryption program, and a predictive text generator.',
+  },
+  {
+    _id: '0282e0e58a5c404fbd15261f11c2ab6b',
+
+    category_id: '02',
+    rating: { number: 4.5, badge: 'Excellent' },
+    total_view: 488,
+    title: 'Foundations of User Experience (UX) Design',
+
+    thumbnail_url: 'https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png',
+    image_url:
+      'https://collab.templatekit.co/wp-content/uploads/sites/44/2022/04/website-development-2021-09-04-07-39-08-utc-1024x684.jpg',
+    details:
+      'Foundations of User Experience (UX) Design is the first of a series of seven courses that will equip you with the skills needed to apply to entry-level jobs in user experience design. UX designers focus on the interactions that people have with products like websites, mobile apps, and physical objects. UX designers make those everyday interactions usable, enjoyable, and accessible. The role of an entry-level UX designer might include empathizing with users, defining their pain points, coming up with ideas for design solutions, creating wireframes, prototypes, and mockups, and testing designs to get feedback. ',
+  },
+  {
+    _id: '0282e0e58a5c404fbd15261f11c2ab6c',
+
+    category_id: '03',
+    rating: { number: 4.5, badge: 'Excellent' },
+    total_view: 488,
+    title: 'Create a Process Map using a Canva Template',
+
+    thumbnail_url: 'https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png',
+    image_url: 'https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png',
+    details:
+      'In this 1-hour long project-based course, you will learn how to create a free Canva account, use Canva templates in your process map design, and download your completed design for later use.Note: This course works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.In a video that plays in a split-screen with your work area, your instructor will walk you through these steps.',
+  },
+  {
+    _id: '0282e0e58a5c404fbd15261f11c2ab6d',
+
+    category_id: '04',
+    rating: { number: 4.5, badge: 'Excellent' },
+    total_view: 488,
+    title: 'Software Engineering Fundamentals',
+
+    thumbnail_url: 'https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png',
+    image_url: 'https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png',
+    details:
+      'Software Engineering Fundamentals provides a comprehensive overview of software engineering and its process, builds on experience drawn from actual practice, and guides engineering students towards a better understanding of various disciplines, tasks, and specialities that contribute to the development of a software product. Intended for both students and professionals, the text follows the full software development life cycle, including a thorough coverage of methods, tools, principles, and guidelines. Software Engineering Fundamentals is unique in its coverage of such topics as software metrics, real-time software design, quality assurance, reliability, risk management, cost and schedule estimation, sizing, planning, test and integration process, technical management, and human factors. It establishes the concept of software development as an engineering process and software as an engineered product, and describes software development as a team-oriented activity usually conducted in a system development setting. The notion of using software metrics (attributes) to measure properties of the software product as a means to evaluate and control the development process is introduced, software metrics are presented as a management tool, and the software development process is described using an accepted review and documentation structure as an outline. Many interim products of the software engineering process are described in enough detail to permit the reader to produce a credible draft of these products. While encouraging the use of modeling techniques for sizing, cost and schedule estimation, reliability, risk assessment, and real-time design, the authors emphasize the need to calibrate models with actual data. Explicit guidance is provided for virtually every task that a software engineer may be assigned, and realistic case studies and examples are used extensively to reinforce the topics presented.',
+  },
+  {
+    _id: '0282e0e58a5c404fbd15261f11c2ab6e',
+
+    category_id: '05',
+    rating: { number: 4.5, badge: 'Excellent' },
+    total_view: 488,
+    title: 'Introduction to Computer Science and Programming',
+
+    thumbnail_url: 'https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png',
+    image_url: 'https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png',
+    details:
+      'This course is the first of a two-course sequence: Introduction to Computer Science and Programming Using Python, and Introduction to Computational Thinking and Data Science. Together, they are designed to help people with no prior exposure to computer science or programming learn to think computationally and write programs to tackle useful problems. Some of the people taking the two courses will use them as a stepping stone to more advanced computer science courses, but for many it will be their first and last computer science courses. This run features lecture videos, lecture exercises, and problem sets using Python 3.5. Even if you previously took the course with Python 2.7, you will be able to easily transition to Python 3.5 in future courses, or enroll now to refresh your learning.Since these courses may be the only formal computer science courses many of the students take, we have chosen to focus on breadth rather than depth. The goal is to provide students with a brief introduction to many topics so they will have an idea of what is possible when they need to think about how to use computation to accomplish some goal later in their career. That said, they are not "computation appreciation" courses. They are challenging and rigorous courses in which the students spend a lot of time.',
+  },
+  {
+    _id: '0282e0e58a5c404fbd15261f11c2ab6f',
+
+    category_id: '06',
+    rating: { number: 4.5, badge: 'Excellent' },
+    total_view: 488,
+    title: 'Java Programming: Principles of Software Design',
+
+    thumbnail_url: 'https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png',
+    image_url:
+      'https://collab.templatekit.co/wp-content/uploads/sites/44/2022/04/paper-stickers-with-words-idea-and-business-plan-2021-10-14-21-24-05-utc-1024x682.jpg',
+    details:
+      'Solve real world problems with Java using multiple classes. Learn how to create programming solutions that scale using Java interfaces. Recognize that software engineering is more than writing code - it also involves logical thinking and design. By the end of this course you will have written a program that analyzes and sorts earthquake data, and developed a predictive text generator.After completing this course, you will be able to: Use sorting appropriately in solving problems. Develop classes that implement the Comparable interface. Use timing data to analyze empirical performance.',
+  },
+  {
+    _id: '0282e0e58a5c404fbd15261f11c2ab6g',
+
+    category_id: '07',
+    rating: { number: 4.5, badge: 'Excellent' },
+    total_view: 488,
+    title: ' C Programming for Beginners',
+
+    thumbnail_url: 'https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png',
+    image_url:
+      'https://collab.templatekit.co/wp-content/uploads/sites/44/2022/04/programming-code-2021-09-24-02-52-16-utc-1024x682.jpg',
+    details:
+      'C is a general-purpose programming language that is extremely popular, simple, and flexible to use. It is a structured programming language that is machine-independent and extensively used to write various applications, Operating Systems like Windows, and many other complex programs like Oracle database, Git, Python interpreter, and more.It is said that ‘C’ is a god’s programming language. One can say, C is a base for the programming. If you know ‘C,’ you can easily grasp the knowledge of the other programming languages that uses the concept of ‘C’.It is essential to have a background in computer memory mechanisms because it is an important aspect when dealing with the C programming language.',
+  },
+];
