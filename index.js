@@ -16,10 +16,24 @@ app.get('/faqs-courses', (req, res) => {
   res.send(courses);
 });
 
+app.get('/course/:id', (req, res) => {
+  const id = req.params.id;
+  if (id === '08') {
+    res.send(faqs);
+  } else {
+    const course_faqs = faqs.filter(f => f.category_id === id);
+    res.send(course_faqs);
+  }
+});
+
+app.get('/faqs', (req, res) => {
+  res.send(faqs);
+});
+
 app.get('/faqs/:id', (req, res) => {
   const id = req.params.id;
   const selectedFaqs = faqs.find(f => f._id === id);
-  console.log(selectedFaqs);
+  res.send(selectedFaqs);
 });
 
 app.listen(port, () => {
